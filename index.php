@@ -17,7 +17,7 @@
     integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" 
     crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-    <title>PHP Crud Application</title>
+    <title> PHP Crud Application</title>
 </head>
 <body>
 <nav class="navbar navbar-light justify-content-center fs-3 mb-5" style="background-color: #00ff5573;">
